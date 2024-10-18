@@ -1,0 +1,712 @@
+# Matt Ridley - How Innovation Works
+
+Finished at: 2023-04-12
+Last read at: 2023-04-12
+
+## Comments
+
+Page: 12
+
+*?nnovation happens when people are free to think, experiment and speculate. ?t happens when people can trade with each other. ?t happens where people are relatively prosperous, not desperate. ?t is somewhat contagious. ?t needs investment. ?t generally happens in cities. And so on.
+But do we really understand it? What is the best way to encourage innovation? To set targets, direct research, subsidize science, write rules and standards? or to back off from all this, deregulate, set people free? or to create property rights in ideas, offer patents and hand out prizes, issue medals? to fear the future? or to be full of hope? You will find champions of all these policies and more, fervently arguing their cases. But the striking thing about innovation is how mysterious it still is. No economist or social scientist can fully explain why innovation happens, let alone why it happens when and where it does.*
+
+**Non-objective search principles would support uncovering the most stepping stones and thus promoting the most amount of serendipitous opportunities. One thing that non-objective search does poorly is to optimize inventions and customize them to the point where they catch on.
+
+**The fact that the search space is unknowable is what makes it so hard to understand. It's computationally irreducible which means we have to pass each step to get to the next.
+
+---
+Page: 13
+
+*The chief way in which innovation changes our lives is by enabling people to work for each other. As ? have argued before, the main theme of human history is that we become steadily more specialized in what we produce, and steadily more diversified in what we consume? we move away from precarious self-sufficiency to safer mutual interdependence. By concentrating on serving other people’s needs for forty hours a week – which we call a job – you can spend the other seventy-two hours (not counting fifty-six hours in bed) drawing upon the services provided to you by other people. ?nnovation has made it possible to work for a fraction of a second so as to be able to afford to turn on an electric lamp for an hour, providing the quantity of light that would have required a whole day’s work if you had to make it yourself by collecting and refining sesame oil or lamb fat to burn in a simple lamp, as much of humanity did in the not so distant past.*
+
+**Money is underpinning the possibility to specialize.
+
+---
+Page: 14
+
+*?ew new inventions were ever rewarded by a monopoly? for although the inventor, oftentimes drunk with the opinion of his own merit, thinks all the world will encroach and invade upon him, yet ? have observed that the generality of men will scarce be hired to make use of the new substances which themselves have not thoroughly tried, and which length of time hath not vindicated from latent inconvenience, so as when a new invention is first propounded in the beginning every man objects and the poor inventor runs the gauntloop of all petulant wits, every man finding his several flaw, no man approving it unless mended according to his own device.
+Now, not one of a hundred outlives this torture, and those that do are at length so changed by the various contrivances of others, that not any one man can pretend to the invention of the whole, nor well agree about their respective share in the parts. And moreover this commonly is so long adoing, that the poor inventor is either dead, or disabled by the debts contracted to pursue his design? and withal railed upon as a projector or worse, by those who joined their money in partnership with his wit? so as the said inventor and his pretences are wholly lost as vanished.*
+
+**Is it a bad idea to focus on inventions if you want to innovate? At least it seems so if you want to reap the rewards of an innovation. Innovation can only come when an invention has matured a bit. There seems to be a continuum there, when does invention turn into innovation?
+
+---
+Page: 16
+
+*Whenever you see a successful business, someone once made a courageous decision.*
+
+**I'd argue that someone made many courageous decisions. Perseverance is about making the decision to go on everyday. 
+
+---
+Page: 16
+
+*The event ? am talking about is the first controlled conversion of heat to work, the key breakthrough that made the ?ndustrial Revolution possible if not inevitable and hence led to the prosperity of the modern world and the stupendous flowering of technology today. (Here ? use the word ‘work’ in its more colloquial sense, as controlled and energetic movement, rather than in the broader way physicists define it.) ? am writing this on a laptop powered by electricity aboard a train also powered by electricity, and with the help of electric light. Most of that electricity is coming down wires from a power station in which enormous turbines are being spun at high speed by steam generated by the burning of gas or boiled by the heat of nuclear fission. The purpose of a power station is to turn the heat of combustion into the pressure of water expanding into steam and thence into the movement of the blades of the turbine, which moves inside an electromagnet to create the movement of electrons in wires. Something similar happens inside the engine of a car or a plane? combustion causes pressure, which causes movement. Virtually all the gigantic amounts of energy that go into making my life and yours happen come from the conversion of heat to work.*
+
+**Soon we will be able to turn heat into thought. The great platform shift that everybody's talking about is more like the invention of the steam engine, than the invention of the web or mobile. The invention is here, when will the innovation come?
+
+---
+Page: 24
+
+*?n 1763 a skilled and practical Scottish instrument maker, by the name of ?ames Watt, was asked to mend a model Newcomen engine belonging to the University of ?lasgow. The thing barely worked. ?n trying to understand what was wrong, Watt realized something about Newcomen engines in general that should have been spotted much earlier? three-quarters of the energy of the steam was being wasted in reheating the cylinder during each cycle, after it had been cooled with injected water to condense the steam.
+Watt had the simple idea of using a separate condenser, so that the cylinder could be kept hot, while the steam was drawn off for condensing in a cooler container. At a stroke he had improved the efficiency of the steam engine, though as usual it took months of work to get the metalworking right to make his ideas into practical devices.*
+
+**We're seeing the same kind of optimization going on for GPTs right now. You see new efficiency improvements everyday. How efficient are we at the moment? Can we get many orders of magnitude improvements? What does that imply in terms of capabilities and potential uses? 
+
+---
+Page: 26
+
+*The truth is that twenty-one different people can lay claim to have independently designed or critically improved incandescent light bulbs by the end of the 1870s, mostly independent of each other, and that is not counting those who invented critical technologies that assisted in the manufacture of light bulbs, such as the Sprengel mercury vacuum pump.
+Swan was the only one whose work was thorough enough and whose patents were good enough to force ?dison to go into business with him. The truth is that the story of the light bulb, far from illustrating the importance of the heroic inventor, turns out to tell the opposite story? of innovation as a gradual, incremental, collective yet inescapably inevitable process. The light bulb emerged inexorably from the combined technologies of the day. ?t was bound to appear when it did, given the progress of other technologies.*
+
+**The stepping stone collecting capabilities of the collective far surpasses that of lone individuals. It seems that one enabler for the stepping stone collector was the expiration of the patent, people need complete freedom if they are too think that it's worth exploring. 
+
+---
+Page: 26
+
+*Thomas ?dison understood better than anybody before, and many since, that innovation is itself a product, the manufacturing of which is a team effort requiring trial and error. Starting his career in the telegraph industry and diversifying into stock-ticker machines, he then set up a laboratory in Menlo Park, New ?ersey, in 1876, to do what he called ‘the invention business’, later moving to an even bigger outfit in West Orange. He assembled a team of 200 skilled craftsmen and scientists and worked them ruthlessly hard. He waged a long war against his former employee Nikola Tesla’s invention of alternating-current electricity for no better reason than that Tesla had invented it rather than he. ?dison’s approach worked? within six years he had registered 400 patents. He remained relentlessly focused on finding out what the world needed and then inventing ways of meeting the needs, rather than the other way around. The method of invention was always trial and error. ?n developing the nickel-iron battery his employees undertook 50,000 experiments. He stuffed his workshops with every kind of material, tool and book. ?nvention, he famously said, is 1 per cent inspiration and 99 per cent perspiration. Yet in effect what he was doing was not invention, so much as innovation? turning ideas into practical, reliable and affordable reality.*
+
+**Edison was a great leader of innovation. Understanding how to find good products by understanding the needs and problems of his users. Also how to optimize iteration speed which is directly related to how fast one can explore idea space. 
+
+---
+Page: 28
+
+*The whole compact fluorescent light bulb episode is an object lesson in misinnovation by government. As the economist Don Boudreaux put it? ‘Any legislation forcing Americans to switch from using one type of bulb to another is inevitably the product of a horrid mix of interest-group politics with reckless symbolism designed to placate an electorate that increasingly believes that the sky is falling.’*
+
+**This is what's concerning when people talk about putting breaks on AI.
+
+---
+Page: 31
+
+*Parsons’s turbine was about 2 per cent efficient at turning the energy of a coal fire into electricity. Today a modern combined-cycle gas turbine is about 60 per cent efficient. A graph of the progress between the two shows a steady improvement with no step changes. By 1910, using waste heat to preheat the water and the air, engineers had improved the efficiency to 15 per cent. By 1940, with pulverized coal, steam reheating and higher temperatures, it was nearer 30 per cent. ?n the 1960s, as the combined-cycle generator effectively brought a version of the turbojet engine in alongside the steam turbine, potential efficiency had almost doubled again. To single out clever people who made the difference along the way is both difficult and misleading. This was a collaborative effort of many brains. Long after the key technologies had been ‘invented’, innovation continued.*
+
+**This is why it's going to be better for everybody if everything to do with AI is open-source. Though I don't know if that reduces the incentive of capital to flow to it.
+
+---
+Page: 32
+
+*Yet today the picture is of an industry in decline, its electrical output shrinking as old plants close faster than new ones open, and an innovation whose time has passed, or a technology that has stalled. This is not for lack of ideas, but for a very different reason? lack of opportunity to experiment.
+The story of nuclear power is a cautionary tale of how innovation falters, and even goes backwards, if it cannot evolve.*
+
+**Again, this speaks to the dangers of slowing down.
+
+---
+Page: 34
+
+*Or maybe they have made it less safe. Consider the ?ukushima disaster of 2011. The design at ?ukushima had huge safety flaws. ?ts pumps were in a basement easily flooded by a tidal wave, a simple design mistake unlikely to be repeated in a more modern design. ?t was an old reactor and would have been phased out long since if ?apan had still been building new nuclear reactors. The stifling of nuclear expansion and innovation through costly overregulation had kept ?ukushima open past its due date, thus lowering the safety of the system.*
+
+**Quality and speed go together. Without speed you don't get quality, without quality you don't get speed. 
+
+---
+Page: 38
+
+*?t has undermined OP?C and Russia, leaving the latter frantically supporting anti-fracking activists to try to defend its markets – with much success in innovation-phobic ?urope, where shale exploitation has been largely prevented.*
+
+**Europe is good at stifling innovation through regulation. 
+
+---
+Page: 44
+
+*So, yet again, innovation proves to be gradual and to begin with the unlettered and ordinary people, before the elite takes the credit. That is perhaps a little unfair on ?enner, who, like Lady Mary Wortley, deserves fame for persuading the world to adopt the practice. Napoleon, despite being at war with Britain, had his armies vaccinated, on the strength of ?enner’s advocacy, and awarded ?enner a medal, calling him ‘one of the greatest benefactors of mankind’.*
+
+**The people who get credit for innovations are seldom the people doing the perspiration. It's the people who are floating high enough in the clouds of their own ego that they're able to spot where something is going.
+
+---
+Page: 48
+
+*Only in retrospect can it be seen as a disruptive and successful innovation that saved millions of lives. ?t evolved rather slowly, probably from serendipitous beginnings in largely mistaken ideas.*
+
+**What ideas and innovations do we have right now that are misunderstood? There are so many innovations that it's impossible to keep track of any but the most widely known ones. 
+
+---
+Page: 50
+
+*Kendrick and ?ldering received very little recognition for this work, turning down most requests from the media even decades later, and little financial reward. They shared their methods and formulae freely all over the world. They did everything right? chose a vital problem, did the crucial experiments to solve it, worked with communities to test it, gave it to the world and wasted no time or effort defending their intellectual property.
+When not travelling to spread the message and the vaccine, they lived together in a house in ?rand Rapids and threw generous parties and picnics for their co-workers. Nobody had a bad word to say of them. As one colleague said later? ‘Dr. Kendrick never became rich and, outside a relatively small circle of informed friends and colleagues, never became famous. All she did was save hundreds of thousands of lives at modest cost.
+Secure knowledge of that fact is the very best reward.’*
+
+**I wonder if the open-source life is worth it. Does honor give enough pleasure to make you satisfied? Sometimes your impact is larger because you don't do rentseeking. 
+
+---
+Page: 56
+
+*The contaminating virus was eventually isolated, christened SV40 and studied in detail by others. We now know that almost every single person vaccinated for polio in America between 1954 and 1963 was probably exposed to monkey viruses, of which SV40 – the fortieth to be described – was just one. That is about 100 million people. ?n the years that followed, the health establishment was quick to reassure the world that the risk was small, but they had little reason to be so complacent at the time. Sure enough there has been no epidemic of unusual cancer incidence among those who received contaminated vaccines, but SV40 DNA has been detected in human cancers, especially mesotheliomas and brain tumours, where it may have acted as a co-factor alongside other causes. Saying this remains unpopular to this day.*
+
+**Sounds very much like the narrative for the covid vaccine.
+
+---
+Page: 54
+
+*Polio became a worsening epidemic especially in the United States during the twentieth century. ?ronically, it was mainly improved public health that caused this, by raising the age at which most people caught the virus, resulting in more virulent infections and frequent paralysis. When everybody encountered sewage in their drinking or swimming water, the population was immunized early, before the virus caused paralysis. With chlorine cleaning up the water supply, people encountered the virus later and more virulently. By the 1950s the polio epidemic in the United States was worsening every year? 10,000 cases in 1940, 20,000 in 1945, 58,000 in 1952.*
+
+**Even technologies that seem fully positive may have unintended consequences. Mostly it's because an ecosystem is put off balance. 
+
+---
+Page: 62
+
+*?ailure is only the opportunity to begin again more intelligently.*
+
+**Clean slates is the core argument of The Network State. Starting again is powerful because you get to remove all the scar tissue that has built up due to bad decisions. 
+
+---
+Page: 63
+
+*?ven so, almost nobody imagined that the railway would prove useful outside the world of the collieries. That it could challenge the canals and the stagecoaches to carry people and cargo long distances just did not occur to anybody? an illustration of a great truth about innovation, that people underestimate its long-term impact.*
+
+**The space of stepping stones is unknowable, each new requires months of digging to even understand what itself is much less what the next step is.
+
+---
+Page: 64
+
+*?t was not reliable enough yet to compete with horse-drawn vehicles, let alone canals, except at coal mines, where fuel was cheap, but it was a start.*
+
+**It's important to recognize the potential of innovation. Given enough time and effort we can remove a lot of the initial kinks. Don't mistake a 1% problem for a 100% problem. Ask yourself, if this thing was X better in Y dimension, what would happen?
+
+---
+Page: 65
+
+*Heat was doing work in transporting people for the first time.*
+
+**What will we be able to transmute intelligence to? What heat to transport does is in some sense to automate and to increase scale and capacity.
+
+---
+Page: 66
+
+*Rocket was designed by Robert, but incorporated many ingenious improvements, mostly invented by Henry Booth, a new collaborator. These included multiple fire tubes in the boiler to increase the rate of steam generation, angled cylinders, pistons connected directly to just two driving wheels and a blast-pipe for exhausting steam vertically into the chimney, increasing the draught through the furnace. ?n short, it was the product of incremental tinkering and trial and error by several people, not of brilliant leaps of imagination by a genius.*
+
+**I wonder what kind of experimental framework they were explicitly or implicitly using. 
+
+---
+Page: 67
+
+*The story of the screw propeller shows all the usual elements of an innovation? a long prehistory, simultaneous breakthroughs by two rivals, then incremental evolution over many years.*
+
+**We're in the simultaneous breakthrough phase with GPT now. Every week a new wave of similar projects emerge.
+
+---
+Page: 71
+
+*So who invented the motor car running on an internal-combustion engine? Like the steam engine and (as ? will show later) the computer, there is no simple answer. ?ord made it ubiquitous and cheap? Maybach gave it all its familiar features? Levassor provided crucial changes? Daimler got it running properly? Benz made it run on petrol? Otto devised the engine’s cycle? Lenoir made the first crude version? and de Rivaz presaged its history. And yet even this complicated history leaves out many other names? ?ames Atkinson, ?dward Butler, Rudolf Diesel, Armand Peugeot and many more. ?nnovation is not an individual phenomenon, but a collective, incremental and messy network phenomenon.*
+
+**Is GPT the engine or is it just the first component of an engine for intelligence? What would the other components look like? Will anyone be able to understand the entire system at the end? 
+
+---
+Page: 72
+
+*He became obsessed with the thermodynamics of the Carnot cycle, a theoretical idea by which an internal-combustion engine could reach 100 per cent efficiency, turning heat into work without changing temperature.*
+
+**What crazy theoretical ideas are there related to AI? What are the limits? Where do we want to become more efficient?
+
+---
+Page: 74
+
+*Where Langley had done everything wrong – spending lots of money, depending on the government, consulting few other people, building a fully fledged device from scratch, rather than inching incrementally through each of the problems to be solved – the Wrights had done everything right. As experienced bicycle makers and diligent craftsmen, they had systematically worked step by step through the challenges necessary to solve the problem of powered flight.*
+
+**They knew about lean development before it was cool.
+
+---
+Page: 74
+
+*At this point, back in Dayton, they began to experiment with models in a wind tunnel, making thousands of laborious measurements till they had a full understanding of lift and drag.*
+
+**They built a development environment in which they could iterate quickly and safely. Building a framework for yourself early will allow you to maximize iterations in the long run. If you expect to need a certain amount of iterations to learn what you need to learn, then setup your environment accordingly. Is there a general rule when it comes to the amount of iterations needed given the complexity of what you're trying to do?
+
+---
+Page: 75
+
+*The reason nobody had invented such a thing before was partly because getting to the next stage, powered flight, had never been so tantalizingly close. The Wrights, surrounded by new-fangled automobiles, knew that it was the engine, the motor, that was going to make all the difference.*
+
+**They were able to see that the problem was tractable, that it was just one stepping stone away and for that reason a goal possible to attain.
+
+---
+Page: 77
+
+*There is little doubt that somebody would have got planes into the air within the first decade of the twentieth century even without the Wrights.
+Motors made it inevitable that many people would then try, and trial and error was all that was really needed.*
+
+**When a stepping stone is ripe to be uncovered it will happen with enough trial and error. The people who actually get there first are usually very special, they are the people who work harder and smarter than their rivals. 
+
+---
+Page: 78
+
+*But coming up with the idea of jet propulsion was a very long way from actually building a jet plane, as Whittle was about to find out. ?inding materials for compressors and turbine blades that could withstand immensely high pressure and red-hot temperature while rotating at high speed was a tall order. As was the case with the steam engine in the 1700s, and is the case with nuclear fusion today, innovation in materials is vital to realizing an advance that can be conceived but not built.*
+
+**When something is conceivable, how far away from being possible is it? I want to find a measurement for knowing when to go for it.
+
+---
+Page: 82
+
+*As cases like this show, there are multiple factors of technology, procedure and psychology that safety designers have to get right in making flight safer. Most crucial of all is learning from mistakes such as this accident, by openly and transparently sharing the results of accident investigations all around the world. The astonishing safety record of the modern airline industry has been achieved, quite literally, by trial and error. ?ts methods have since been emulated in other walks of life such as surgery and offshore oil and gas exploration.*
+
+**I'm surprised by how open and well-aligned the airplane industry is. I guess it's because they are forced to collaborate since by its very nature it's international. 
+
+---
+Page: 83
+
+*Pause in awe at what innovation does. ?or the entire history of humanity before the 1820s, nobody had travelled faster than a galloping horse, certainly not with a heavy cargo? yet in the 1820s suddenly, without an animal in sight, just a pile of minerals, a fire and a little water, hundreds of people and tons of stuff are flying along at breakneck speed. The simplest ingredients – which had always been there – can produce the most improbable outcome if combined in ingenious ways. ?arly in the following century, people are taking to the air, or piloting their own carriages along roads, once again just through the rearrangement of molecules and atoms in patterns far from thermodynamic equilibrium.*
+
+**In theory we should be able to do anything that's permitted by the laws of nature.
+
+---
+Page: 91
+
+*namely the looming probability that the world would be starving by 1930 unless a way could be made to synthesize nitrogen fertilizer to replace Chilean nitrate, wheat being then by far the largest crop in the world.*
+
+**If we hadn't discovered a way to do this in time the scale of the disaster would've been enormous. I guess this was a case were the fear mongering was justified. 
+
+---
+Page: 92
+
+*But results were disappointingly far from being commercially viable, so Haber began to try different catalysts. Like ?dison seeking the right material for a filament in a light bulb, Haber cast about for different metals almost at random, and indeed it was from lighting filaments that he eventually stumbled upon osmium, a dense, shiny blue-black metal element usually found alongside platinum and first described in 1804. ?n March 1909 Haber watched liquid ammonia dribble out of the apparatus at the second test of an osmium catalyst. He had no idea why osmium worked, but it did.*
+
+**A proof of concept won't take you all the way, productionizing something is where the sweat comes in. 
+
+**We can create stuff without knowing how it works, I think it's in those cases where we've actually put together a complex artifact rather than a complicated one. 
+
+---
+Page: 93
+
+*?ar more ingenuity was needed during Bosch’s perspiration than during Haber’s inspiration. As Hager recounts, none of these challenges could be overcome without access to the ideas being developed in other industries, a fine example of how innovation thrives in an ecosystem of innovation?
+Bosch’s teams looked for design hints in locomotive engines, gasoline engines, and the new engine that Rudolf Diesel had invented. Bosch and his engineers met with men from the ?erman steel industry, learned about the Bessemer process for making steel, talked with Krupps representatives about cannon designs and new advances in metallurgy. He set teams to work designing quick-acting valves, self-closing valves, slide valves? pumps reciprocating and circulating, large and small? temperature monitors of all sorts and sizes? pressure balances?
+density recorders? trip alarms? colorimeters? high-pressure pipe fittings. ?verything had to be rugged, leakproof, functional at high temperature and under enormous pressure. The ovens had the potential of exploding like small bombs? Bosch wanted to make sure they could be carefully monitored and quickly shut down if something started to go wrong. He wanted perfect reliability and lightning speed. He wanted a machine that combined the strength of a sumo wrestler, the speed of a sprinter, and the grace of a ballerina.*
+
+**This network of innovation is what I'm lacking the most.
+
+**During all thus discovery they must've invented so many things and ways of doing things on the way, each worthy of being an innovation in its own right.
+
+---
+Page: 98
+
+*The ?ndian bureaucrats were adamant that Mexican wheats should not even be allowed in the country, let alone encouraged. The biologists warned of devastation and disease if the wheats failed. The social scientists warned of ‘irreversible social tensions’ and riots if the wheats succeeded – and caused some farmers to make more money than others. Thus do innovation’s opponents seek any argument, however absurd, to defend the status quo.*
+
+**Conservatism often looks absurd in hindsight, are there ever cases where it was right to be overly conservative? I don't understand it myself so I want to try and give it the benefit of the doubt. 
+
+---
+Page: 103
+
+*The pest is no longer a problem in Brazil because of the use of Bt maize there, but African countries, under pressure from well-funded ideological opponents of genetically modified crops, have been slow to allow Bt maize to be grown.
+These opponents had been especially successful in ?urope, discovering in the late 1990s that spreading scare stories about genetically modified crops among easily spooked consumers was a lucrative way of raising funds. To Van Montagu’s dismay, ?urope rejected the technology almost entirely, by erecting high and costly regulatory barriers to its deployment, which amounted to a de facto ban*
+
+**Propaganda can be a way of making money by stealing from the future benefits that would have been gained.
+
+---
+Page: 103
+
+*All pest control eventually runs into the evolution of resistance in the pest, though this has been less of a problem with Bt crops than with pesticides. However, the latest generation of Bt crops includes sophisticated extra features that ensure that insects will be much slower to develop resistance to the Bt protein.*
+
+**Is there any damage to the ecosystem by outcompeting pests?
+
+---
+Page: 110
+
+*Considering how indispensable ?ndian numbers are to modern life, and how impossible it would be to live without them, this innovation was extraordinarily important, and it is bizarre how late it enters the story of Western civilization. The whole of the classical world and early-medieval Christendom got by with a system of counting that made multiplication virtually impossible, algebra unfathomable and accounting primitive.*
+
+**Are we missing any mathematical primitives today that stand in the way of doing stuff? Is there an equivalent situation for phase transitions, complexity, etc. Where with just one more primitive we suddenly unlock new ways of thinking.
+
+---
+Page: 111
+
+*?t is notable that this innovation, like so many, comes to us through commerce.*
+
+**When people can make more money through something it catches on. Commerce is the photosynthesis of the creativity machine known as the market.
+
+---
+Page: 112
+
+*?ibonacci’s innovation co-existed with other ways of counting and accounting for centuries? counting boards, tally sticks, the abacus. ?ven on paper it sat alongside Roman numerals. ?n the fourteenth century, ledgers would sometimes have columns of ?ndian numbers and paragraphs of Roman ones intermingled or taking turns. Yet gradually numbers won, especially in the preparation of merchants’ accounts? commerce led the way. By the time Luca Pacioli wrote his great treatise on double-entry book-keeping in 1494, making clear just how vital ?ibonacci’s innovation was for mathematicians as well as accountants, Roman numerals were used mainly for dates and monuments.*
+
+**A great case where an innovation won on the basis of its merits rather than through some sort of lobbying or marketing.
+
+---
+Page: 117
+
+*?ntellectual property therefore merely served to delay the innovation, as usual.*
+
+** Building in the open allows other brains to make connections with potentially useful stepping stones. It's the fastest way to take a branch of innovation to its conclusion. The invention itself may die but it may spawn many children that go on for generations. Truly useful ideas have unbroken lineages that go on forever. Much like useful life forms.
+
+---
+Page: 125
+
+*The rapid expansion of air travel in the 1970s and the increasing distance that passengers had to walk created a tipping point when wheeled suitcases came into their own.*
+
+**Tipping points are fascinating, they play more of a role than the entrepreneur. Entrepreneurs are like engines, ideas are the cargo and the tipping points are the road. In computers the tipping point usually have to do with performance, capacity and price. In crypto it's more about convenience and regulation. 
+
+---
+Page: 126
+
+*A study of Noma by two (hungry) professors of innovation stresses that the main method of innovation here is not de no?o invention, but recombination – bringing old things together in new combinations – and that this is a general feature of innovation elsewhere in the economy?
+‘?nnovation is a process of search and recombination of existing components’, a point also made by ?oseph Schumpeter in the 1930s?
+‘?nnovation combines components in a new way’.*
+
+**Why is this? My guess is that the novelty you get from recombination is rooted in the road paved by the components,  such that the world is more ready for children of components.  
+
+---
+Page: 128
+
+*The sharing economy is a form of more from less, or growth by shrinkage – economic enrichment caused by using resources more frugally.*
+
+**What modes of sharing haven't been unlocked yet? The way to build a sharing economy app has been solved, if you find an unexplored use case then you're set. 
+
+---
+Page: 136
+
+*?or reasons that are not entirely clear, network television had the opposite effect of radio, bringing people back towards a social consensus, sometimes stiflingly so, rather than polarizing them.*
+
+**What will be the 21st century equivalent in terms of increasing social cohesion?
+
+---
+Page: 141
+
+*The development of the computer is always supposed to have been accelerated by wartime funding, but the counterfactual of what would have happened if war had not broken out (in 1939 for Britain and ?ermany, in 1941 for America), is hard to discern. By 1945, without war, there would undoubtedly have been devices that were electronic, digital, programmable and general purpose. ?ndeed, without the need for secrecy, they might have evolved faster, as separate teams shared ideas faster and used their devices for other purposes than calculating the trajectories of artillery shells or decoding the secret messages of enemies. Had Zuse, Turing, von Neumann, Mauchly, Hopper and Aiken all met at a conference in peacetime, who knows what would have happened and how fast?*
+
+**Part of the argument for why war speeds up innovations is that the government doesn't mind writing a fat check if they think they can weaponize something. The second part I suppose is that it's forced to have practical implications from its conception, which may actually be counterproductive if you consider the myth of the objective. The third part is that all regulatory hinges come off. "Do you want to test your robot on enemy soldiers? Go for it."
+
+---
+Page: 141
+
+*?nnovators are often unreasonable people? restless, quarrelsome, unsatisfied and ambitious. Often, they are immigrants, especially on the West Coast of America. Not always, though. Sometimes they can be quiet, unassuming, modest and sensible stay-at-home types.*
+
+**I'm not sure what I would be classified as.
+
+---
+Page: 144
+
+*This was encapsulated in ?ntel’s famous ‘tick-tock’ corporate strategy?
+tick was the release of a new chip every other year, tock was the fine-tuning of the design in the intervening years, preparatory to the next launch.*
+
+**The power if this is that during a lull period you have the slack in the system necessary for innovation and stepping stone collecting. 
+
+---
+Page: 154
+
+*Amazon found that a neural network intended to help with hiring had begun to discriminate against women. Yet human brains are also black boxes whose reasoning is sometimes obscure, so we may be holding machines to a higher standard than people.*
+
+**Was it more or less biased than humans?
+
+---
+Page: 155
+
+*Before the last two centuries, innovation was rare. A person could live his or her whole life without once experiencing a new technology? carts, ploughs, axes, candles, creeds and corn looked the same when you died as when you were born. ?nnovation happened but sporadically and slowly.
+Travel still further back and the rate of change slows down even more. As the dial on your time machine reaches 10,000 years before today, you would alight in a world that was changing so slowly as to be imperceptible not just in one lifetime but in ten. And yet you would be landing in the middle of one of the most momentous innovations of all? the adoption of farming.*
+
+**How do we have the capacity to embrace and adopt so much more innovation than we were evolved to deal with? Are we piggybacking on something else? Like the flexibility we have for new environments as we wander through the world? Nature, especially back then is so infinitely diverse. The natural environments that we expose ourselves today is a shadow of its former self, but the technological environment is abundantly novel.
+
+---
+Page: 156
+
+*?irst, there is the phenomenon of simultaneous invention. ?ust as the light bulb appeared independently in the 1870s in many different parts of the world around the same time, so agriculture did the same. Admittedly the ‘same time’ might in this case span a millennium or two, but the point is that compared with the half a million years or more that our species had been hunting and gathering, a few thousand years is but an eye blink. ?n that time people took up farming in at least six different places wholly independent of each other? in the Near ?ast, China, Africa, South America, North and Central America, and New ?uinea. There is no evidence that any of these people got the idea of farming from each other and the particulars of crop and cultivation were different in each case. The wheat farmers of Mesopotamia did not influence the millet farmers of China, let alone the potato farmers of the Andes or the yam farmers of New ?uinea.*
+
+**As you drop a general creation machine into nature, maybe everything that's discovered is inevitable. The result of dropping a roomba on a lawn is the same no matter where in the world the lawn is, and if the lawn is the same size the resulting cut lawn will happen simultaneously. There's a prize in it for those who uncover this space faster than others, that's what entrepreneurs chase.
+
+---
+Page: 158
+
+*The shift to farming was not a sign of desperation any more than the invention of the computer was.
+True, a life of farming proved often to be one of drudgery and malnutrition for the poorest, but this was because the poorest were not dead? in hunter-gathering societies those at the margins of society, or unfit because of injury or disease, simply died. ?arming kept people alive long enough to raise offspring even if they were poor. There are parallels here too with modern innovation. Computers enable people to hold down good jobs who would have struggled in the heavy industries of the Victorian era.*
+
+**Culture is what enables a certain niche in the group to thrive. The computer age is the age of semi-autism.
+
+---
+Page: 162
+
+*Human beings are rarely like this. ?rom birth we are amazingly tolerant of other people. ?t looks like we too are a domesticated species, selected by a bunch of Dr Belyaevs – each other – to be less reactively aggressive to strangers, the better to survive in urban, agricultural or dense hunter-gatherer settlements. At some point in human prehistory we must have weeded out people who had fast-migrating neural crest cells and hair-trigger reactions. Whether we did this by executing them, generation after generation, or by ostracizing them, or by sending them into battle, or some combination of the three, we continued doing so into more recent history, and the penal system does so even today.*
+
+**Individuals turned weak in order for the group to grow stronger. Having agents that can work smoother together is perhaps more optimal from a game theoretical and evolutionary perspective. 
+
+---
+Page: 166
+
+*Mark Thomas and his colleagues at University College London wrote a paper in 2009 arguing that innovation in the Upper Paleolithic is all about demography. Dense populations inevitably spur human technological change, because they create the conditions in which people can specialize.
+The most striking evidence for this idea comes from Tasmania and concerns, not innovation, but ‘disinnovation’. The Tasmanian people became isolated 10,000 years ago when rising sea levels at the end of the ice age cut the island off from mainland Australia. They remained effectively uncontacted until Western explorers arrived. During these millennia of isolation, the population of the island was small – about 4,000 people – and not only showed little sign of technological innovation, but actually gave up some of the technologies that were there at the start. By the end, Tasmanians had no bone tools, no cold-weather clothing, no hafted tools, no nets, no barbed spears, fishing spears, spear throwers or boomerangs.*
+
+**With western depopulation will we see a slower rate of innovation? 
+
+---
+Page: 167
+
+*The startling idea here (as ? argued in The Rational Optimist) is that some time before 150,000 years ago human beings had become reliant on a collective, social brain mediated through specialization and exchange. ?f you cut people off from exchange, you lower their chances of innovating.*
+
+**As countries become more isolated and globalization reverses, will we see a slowdown in the pace of innovation?
+
+---
+Page: 171
+
+*That the origin of life happened only once – or if it happened more than once, then the rival life form died out – is proven by the same arbitrary genetic code being found in all life forms. Thus, at the dawn of life, there was innovation by fortuitous recombination, and the result was a reduction in entropy through the harnessing of energy.*
+
+**Applying the other principles of innovation one would assume that there was a lot of trial and error, a lot of the same idea showed up again and again, and eventually the conditions were ripe for a breakthrough. It does feel like given the same conditions, life is inexorable. 
+
+---
+Page: 143
+
+*Moore was effectively forecasting the steady but rapid progress of miniaturization and cost reduction, doubling every year, through a virtuous circle in which cheaper circuits led to new uses, which would lead to more investment, which would lead to cheaper microchips for the same output of power. The unique feature of this technology is that a smaller transistor not only uses less power and generates less heat, but can be switched on and off faster, so it works better and is more reliable. The faster and cheaper chips got, the more uses they found. Moore’s colleague Robert Noyce deliberately underpriced microchips, so that more people would use them in more applications, growing the market.*
+
+**Will we see the same happen for AI? Maybe that's why OpenAI is underpricing their API?
+
+---
+Page: 173
+
+*Perhaps ? am exaggerating. After all, there was a moment when the Wright brothers’ flier became airborne, on 17 December 1903. Surely this was a sudden, breakthrough moment? No, far from it. Once you know the story, nothing could be more gradual. The flight that day lasted for a few seconds. ?t was barely more than a hop. ?t would not have been possible without a stiff head wind and it was preceded by a failed attempt. ?t came after several years of hard slog, experiment and learning, in which very gradually all the pieces necessary for powered flight came together.*
+
+**Existence proof is the spark, the grind that comes after is innovation. 
+
+---
+Page: 175
+
+*Most people want to think they have more control over their lives than is objectively the case? the idea of decisive and discontinuous human agency is both flattering and comforting.*
+
+**How much of a difference does effort make? Is it matter of years, months or days? I suppose a lifetime is nothing on historical scales.
+
+---
+Page: 176
+
+*Again and again in the history of innovation, it is the people who find ways to drive down the costs and simplify the product who make the biggest difference. The unexpected success of mobile telephony in the 1990s, which few saw coming, was caused not by any particular breakthrough in physics or technology, but by its sudden fall in price.*
+
+**Being practical and pragmatic may play a bigger role than being original. Of course I wouldn't say they're mutually exclusive. What impractical inventions do we have in the world right now? I'd say VR is still in that state. I would like a pair of glasses that cost no more than a screen. How does something get enough capital allocated to it in order to actually optimize prices and simplicity? 
+
+---
+Page: 176
+
+*The word serendipity was coined by Horace Walpole in 1754 to explain how he had tracked down a lost painting. He took it from a Persian fairy tale, ‘The Three Princes of Serendip’, in which, as Walpole put it in a letter, the clever princes were ‘always making discoveries, by accidents and sagacity, of things which they were not in quest of’. ?t is a well-known attribute of innovation? accidental discovery.*
+
+**Also known as non-objective search. 
+
+---
+Page: 177
+
+*While trying to develop improved refrigerant fluids, he stored about 100 pounds of tetrafluoroethylene gas in cylinders at dry-ice temperatures, intending to chlorinate it. When he opened a cylinder not all of it came out? some of the chemical had polymerized and turned to a solid, white powder, polytetrafluoroethylene or PT??. ?t was useless as a refrigerant, but Plunkett decided to work out what it was like. ?t proved to be heat-resistant and chemically inert, but also strangely friction-less, or non-stick. PT?? went on to find uses in the Manhattan Project in the 1940s, as a container for fluorine gas? as coating for non-stick pans in the 1950s? as ?oretex clothing in the 1960s? and on board the Apollo missions to the moon.*
+
+**What kind of chemicals and materials are we completely oblivious to? Might we find something that has properties we couldn't even dream of?
+
+---
+Page: 179
+
+*The parallel with human innovation could not be clearer. ?nnovation happens, as ? put it a decade ago, when ideas have sex. ?t occurs where people meet and exchange goods, services and thoughts. This explains why innovation happens in places where trade and exchange are frequent and not in isolated or underpopulated places?*
+
+**Is there an equivalent to replacement rate for populations of ideas? In a certain sense, ideas need to spread and be worked on to grow, so it stands to reason that a population of a certain size limits the capacity of the new born ideas that can be fed and cared for. Of course there's a range as to how efficient different populations are in feeding their ideas.
+
+---
+Page: 181
+
+*An element of playfulness probably helps, too. ?nnovators who just like playing around are more likely to find something unexpected. Alexander ?leming said? ‘? like to play with microbes.’ ?ames Watson, co-discoverer of the double helix, described his work with models as ‘play’. Andrew ?eim, the inventor of graphene, said? ‘a playful attitude has always been the hallmark of my research.’*
+
+**I want to find my way back to playfulness. Have I ever had it? I think so. I have a slight memory of enjoying inventing weapons. 
+
+---
+Page: 179
+
+*The fact that fishing tackle in the Pacific was more diverse on islands with more trading contacts, or that Tasmanians lost out on innovation when isolated by rising sea levels, shows the intimate, mandatory connection between trade and the development of novelty. This explains too why innovation started in the first place. The burst of technology that began in dense populations exploiting rich, marine ecosystems in southern Africa more than 100,000 years ago was caused by the fact that – for whatever reason – people had begun exchanging and specializing in a way that Homo erect?s and even Neanderthals never did. ?t is a really simple idea, and one that anthropologists have been slow to grasp.*
+
+**I wonder how much our niche that we found ourselves in pushed the growth of our intelligence. It must've been co-evolution. Our social capabilities and coordination improved as a result of brain size increase due to changes in diet, the social capabilities then exposed our brains to more complex situations which put further pressure on the growth of our brain. A positive feedback loop that spiraled out of control and let us break through to the other side of evolution.  We can now wield the power of evolution, like no other creature develop in the system of life on earth.
+
+---
+Page: 184
+
+*? have documented in this book many striking examples of this phenomenon. Sure, some are evidence of collusion or conscious competition. But there is none the less a real pattern here. Simultaneous invention is more the rule than the exception. Many ideas for technology just seem to be ripe, and ready to fall from the tree.*
+
+**What this tells me is that just because an idea has been uncovered, it doesn't that the race is over. Commercialization is an important part of innovation too.
+
+---
+Page: 186
+
+*?xamples abound. ?n the 1990s there was a period of wild excitement about the internet that then seemed to end in disappointment around the time of the dotcom bust of 2000. Where was the growth of online retail, online news and online everything that we had been promised? Well, a decade later, it was there, disrupting and destroying business models all across the retail sector, the news media, and the music and film industries, and doing so far more radically than anybody had predicted. Likewise, at the time of the sequencing of the first human genome in 2000, there were wild promises of the end of cancer and the personalization of medicine. A decade later, there was an understandable backlash? genomic knowledge seemed to have had little impact on medicine? articles asking ‘whatever happened to genomic medicine?’ had begun to appear. A decade after that, things are beginning to look almost as promising as the original hype.*
+
+**I think that this is a case of seeing the potential of something before having done the hard work of paving the way for it to be unfolded. We are for sure seeing it with AI at the moment, but within a few years there will have been so many entrepreneurs that have laid railways that everyone can make use of. Perhaps AI is further ahead in the cycle then I think, in that case we should see the full potential this year and the next, I doubt that's the case though.
+
+---
+Page: 189
+
+*?n the 1400s ?urope rather rapidly adopted printing, a technology developed originally in China, which utterly transformed the economics, politics and religion of western ?urope. The fact that ?urope was politically fragmented at the time played a large role in making sure that printing caught on. ?ohann ?utenberg himself had to leave his home city of Mainz and move to Strasbourg to find a regime that would let him get to work.
+Martin Luther became a wildly successful printing entrepreneur and survived only because of the protection afforded at Wartburg by the ?lector ?riedrich the Wise. William Tyndale published his explosively subversive, and aesthetically beautiful, ?nglish translation of the Bible while in hiding in the Low Countries. None of these projects would have been possible in a centrally run empire.*
+
+**Diversity of thought and more importantly diversity of hosts of thought. Has the internet in that sense ossified us, or will it do that eventually? 
+
+**When an idea is able to get fed somewhere and grow strong, it has a greater chance to spread in places where it was previously rejected.
+
+---
+Page: 203
+
+*Yet there is no doubt that in recent years there has been a growing tendency among politicians to adopt the notion that science is the mother of invention, and that this is the main justification for funding science. This seems to me a pity, not just because it misreads history, but because it devalues science. To reject the linear model is most definitely not an attack on the funding of science, let alone on science itself. Science is the greatest fruit of human achievement, bar none, and deserves rich and enthusiastic support in any civilized society, but as a worthwhile goal in its own right, not just as a way to encourage innovation. Science should be seen as the fruit rather than the seed. ?n 1969 the physicist Robert Wilson, testifying to the US Senate about funding for a particle accelerator, was asked if it would contribute to national defence. He replied? ‘it has nothing to do directly with defending our country except to help make it worth defending’. ?n recent years there has been a tendency to demand of academic scientists that they justify their financial support from the taxpayer by showing that their work generates applied spin-offs. ?rankly, to ask Stephen Hawking to show that research on black holes led to industrial activity, or ?rancis Crick to justify research on DNA on similar grounds, would have been like asking William Shakespeare or Tom Stoppard to show that their plays contributed to economic growth. They might do, but that is hardly their main point.*
+
+**Science is not the driver of innovation, it's a crystalizer. It takes our tacit knowledge and create something beautiful out of it. It's easy to understand why science don't contribute very much to innovation, it's so far removed from the practical problems that people face. 
+
+---
+Page: 204
+
+*To contribute to human welfare, and therefore catch on without subsidy, an innovation must meet two tests? it must be useful to individuals, and it must save time, energy or money in the accomplishment of some task. Something that costs more to buy than an existing device, but offers no extra benefits, will not thrive, however ingenious. Manufacturing in space may never pass this test, because of its cost.*
+
+**The marginal benefit to human well-being is clearly not what space is providing us with. It's perhaps a goal post that lifts our ambitions. YC have the 10x rule, is it 10x in some dimension people care about then you have a product that will find product-market fit.
+
+---
+Page: 208
+
+*?nnovation also creates wholly new kinds of jobs. Most of the jobs that people do today would sound utterly baffling to a Victorian. What is software, or a call centre, or a flight attendant? ?nnovation frees people to do the things they really value. ?nstead of digging and weeding your vegetable patch to avoid starvation, you can choose to go out to work and buy veg from a shop. That is made possible by high productivity at your work. Walter ?saacson concludes that? ‘Advances in science when put to practical use mean more jobs, higher wages, shorter hours, more abundant crops, more leisure for recreation, for study, for learning how to live without the deadening drudgery which has been the burden of the common man for past ages.’*
+
+**What's the greatest drudgery we have to deal with today? If we applies the theory of constraints to what sucks in our lives where do we start?
+
+---
+Page: 210
+
+*Big companies are bad at innovating, because they are too bureaucratic, have too big a vested interest in the status quo and stop paying attention to the interests, actual and potential, of their customers. Thus for innovation to flourish it is vital to have an economy that encourages or at least allows outsiders, challengers and disruptors to get a foothold. This means openness to competition, which historically is a surprisingly rare feature of most societies. Monarchs were addicted throughout history to granting monopolies, whether to trading companies, craft guilds or state enterprises.*
+
+**Your window of potential converges when you find commercial success. Before you find it the opportunities are endless but when you find it that becomes your sole focus for. At least for a while, though that's perhaps a good thing. Having a single-minded focus allows you to squeeze out as much potential from an idea as possible. 
+
+---
+Page: 211
+
+*The ultimate form of open innovation is open-source software. ?t was once an eccentric, Bohemian branch of the industry, populated by communitarian dreamers who wanted the world to have no frontiers and no property. Richard Stallman’s ?ree Software ?oundation in the 1980s began a rebellion against the proprietary software of big firms and bet on the idea that users could contribute to innovation.*
+
+**The value becomes extremely great for users because the software is essentially being underpriced. We haven't solved the flywheel for open-source. We need a positive feedback loop such that open-source creates value and value creates more open-source. 
+
+---
+Page: 212
+
+*The opportunities for free innovation are growing as computerized design tools and lowered communication costs allow people to do at home what once required a corporate laboratory to achieve. Unhindered by doubts about whether an innovation can be profitable, free innovators can explore ideas that companies will not touch. But since they are not after profits, they do not necessarily try hard to tell people about their inventions, so diffusion can be slow. Von Hippel says that the growth of free innovation has not gone unnoticed by firms, which now ‘mine’ the ideas of their consumers.
+Makers of surfboards, for example, use surfer modifications as clues to what they should do to their designs.*
+
+**A place where user innovation has truly flourished is on social media platforms. I do suspect it's because there's a monetary incentive for people to do it. As well as a status incentive. Although I'd say that the economics of the influencer phenomena is inherently exploitative. It's based on lottery mechanics and as such it extracts value from the bottom of the pyramid and keeps the game going by flaunting the top of the pyramid.
+
+---
+Page: 218
+
+*But by hoping that the microfluidics breakthrough would happen, they were breaking a key rule of innovation, to tackle the most difficult issue first, in case it’s insoluble. ?oogle’s ‘?’ team, which specializes in crazy ‘moonshot’ innovation schemes, calls this the ‘monkey first’? if your project aims to have a monkey recite Shakespeare while on a pedestal, it’s a mistake to invent the pedestal first and leave till later the hard problem of training the monkey to speak.*
+
+**Everything that follows will be easier if you start with the hardest problem. I guess this is mostly when you are trying to tackle something that has never been solved before. 
+
+---
+Page: 222
+
+*This is innovation failure not because of fraud or fakery but because of diminishing returns. There is a limit to what seems useful from a pocket device. ?t turns out that – contrary to what a lot of people think – innovation cannot push new ideas on people unless they want them.*
+
+**Unless you are in an industry where more is always better, like  storage, compute and energy. Even those technologies may hit the roof at some point. Though by that time, the amount of entrepreneurial energy will probably have decreased since it's not as lucrative anymore.
+
+---
+Page: 225
+
+*Amazon is a good example of failure on the road to success, as ?eff Bezos has often proudly insisted. ‘Our success at Amazon is a function of how many experiments we do per year, per month per week per year. Being wrong might hurt you a bit, but being slow will kill you,’ Bezos once said?
+‘?f you can increase the number of experiments you try from a hundred to a thousand, you dramatically increase the number of innovations you produce.’*
+
+**What counts as an experiment? How big does it need to be? How do I start iterating more? And on the way learn from each iteration? 
+
+---
+Page: 228
+
+*Lockheed Martin pioneered this idea of a high-risk company within a company, licensed to try crazy things in case some of them led to immense rewards. ?t opened its secret Advanced Development Programs, better known as the ‘skunk works’ in 1943 and produced some of the first jet fighters and high-altitude spy planes. Bell Labs, a subsidiary of AT&T, operated in a similar fashion from the 1920s, and invented all sorts of new technologies, including the transistor and the laser, but gradually became more of a science lab than a tech one, winning eight Nobel Prizes. ?erox’s Palo Alto Research Center also proved a valuable laboratory for applying new ideas and incubating new businesses.*
+
+**Could I use Kasta to fund an R&D company? How much money do you need to keep something like that going long enough for it to turn a profit?
+
+---
+Page: 228
+
+*There is a case to be made that what makes the West Coast special in this respect is the legality of its dual-share ownership structure, whereby the founders retain voting control of the company while investors merely get to enjoy the ride. That way the founders can take risks, make long-term bets and ignore at least some of the impatience or caution of their shareholders.*
+
+**An ICO is somewhat like this.
+
+---
+Page: 232
+
+*Here we see all the characteristic features of opposition to innovation?
+an appeal to safety? a degree of self-interest among vested interests? and a paranoia among the powerful. Recent debates about genetically modified food, or social media, echo these old coffee wars.*
+
+**I would like to add to this list, media-induced hysteria. Many times people just knee-jerk rather than actively using their minds.
+
+---
+Page: 231
+
+*This implies that the bans failed each time, but why were these rulers so keen to stamp out this drink? Mainly because coffee houses were places of gossip and therefore potential sedition. Murad ??? was paranoid that the fact that he had killed his whole family to claim the throne might have been a topic of conversation in coffee houses. ? dare say he was right and the subject did sometimes crop up.*
+
+**Is this what makes France so rebellious? I would like to have a period in my life where the café is part of my daily routine.
+
+---
+Page: 234
+
+*The ?U had by now installed the precautionary principle as a guiding light. This superficially sensible idea – that we should worry about unintended consequences of innovation – morphed into a device by which activists prevent life-saving new technologies displacing more dangerous ones.*
+
+**Is this a trigger for collapse or is it a symptom of it or neither?
+
+---
+Page: 236
+
+*Demonization of biotechnology led to a vicious circle as far as the companies involved were concerned. The more the activists demanded regulation and caution, the more expensive it became to develop new crops, and the more therefore it became impossible to do so except within large companies. There was thus a strange symbiosis between big industry and its critics.*
+
+**The idiots require each other to survive. Nobody wants extremists, but they create a positive feedback loop between themselves. That's why polarization has run away these last years.
+
+---
+Page: 237
+
+*Mark Lynas’s verdict on the ?MO episode is unsparing? ‘We permanently stirred public hostility to ?MO foods throughout pretty much the entire world, and – incredibly – held up the previously unstoppable march of a whole technology. There was only one problem with our stunningly successful worldwide campaign. ?t wasn’t true.’ As with the opposition to coffee, it is now clear that the opposition to genetically modified crops was wrong both factually and morally. The technology was safe, environmentally beneficial and potentially good for small farmers. The anti-?M movement caught on amongst wealthy people with plentiful, cheap food. ?t was not pressing and relevant to their lives to increase crop yields. Those who paid the opportunity cost of the prohibition were the sick and starving who had no voice. ?ven the big pressure groups have tiptoed away from it in recent years. But the damage was done.*
+
+**These groups should be held accountable, otherwise they'll keep preventing lifesaving technology from spreading. 
+
+---
+Page: 241
+
+*On 28 ?uly 1984, thirty-nine years to the day after Mr ?ett had said it ‘won’t be difficult’ to launch cellular telephony, America’s first cellular mobile service went live for the opening ceremony of the Los Angeles Olympics. Who says that the pace of change is breathtaking?*
+
+**It's sad that many brilliant people have the capacity to change the world to the better, but they're fought by the very people they try to help.
+
+---
+Page: 243
+
+*Today, wherever intellectual-property protections are absent or leaky – in the music industry, for example, where ‘piracy’ has prevailed – there is no diminution in the enthusiasm of creators.*
+
+**Intellectual property rights is clearly only interesting for big companies and incumbents. It's used to snuff out others ability to expand on ideas that might threaten the status quo.
+
+---
+Page: 247
+
+*All in all, the evidence that patents and copyrights are necessary for innovation, let alone good for it, is weak. There is simply no sign of a ‘market failure’ in innovation waiting to be rectified by intellectual property, while there is ample evidence that patents and copyrights are actively hindering innovation. As Lindsey and Teles put it, the holders of intellectual property are ‘a significant drag on innovation and growth, the very opposite of ?P law’s stated purpose’.*
+
+**Inventions often build on top of other inventions, it's unfair to attribute the full benefit to the person who just put down the final piece of the puzzle. All a patent does is let the person coast and stop being innovative. 
+
+---
+Page: 251
+
+*Regulatory shenanigans cause harm not just by suppressing entrepreneurial energy but also by misdirecting it. The economist William Baumol has argued that if the policy background means that the best way to get rich is by building a new device and selling it, then entrepreneurial energy will flow into innovation, but if it is simpler to profit from lobbying government to set the rules up in favour of an existing technology, then all the entrepreneurial energy will go into lobbying.*
+
+**The spacefilling of entrepreneurial energy will go where there's least resistance. 
+
+---
+Page: 251
+
+*?n 2016 Business?urope produced a long list of examples in which ?uropean regulation had affected innovation. The list did include two cases in which regulation stimulated innovation, in waste policies and sustainable mobility. But it contained a much longer list of cases in which ?U regulation had hampered change by introducing legal uncertainty, inconsistency with other regulations, technology-prescriptive rules, burdensome packaging requirements, high compliance costs or excessive precaution.*
+
+**Where should one look to innovate instead? The US is falling apart and the east is full of dictators. 
+
+---
+Page: 255
+
+*This reliance on freedom explains why innovation cannot easily be planned, because neither human wishes nor the means of their satisfaction are easy to anticipate in the detail required? why innovation none the less seems inevitable in retrospect, because the link between desire and satisfaction is only then manifest? why innovation is a collective and collaborative business, because one mind knows too little about other minds? why innovation is organic because it must be a response to an authentic and free desire, not what somebody in authority thinks we should want? why nobody really knows how to cause innovation, because no one can make people want something.*
+
+**Entrepreneurs need to be good listeners, they need to be in tune with the Zeitgeist. Selling something is and should be hard. Why should someone signal their appreciation towards you if you haven't provided real value to them? 
+
+---
+Page: 258
+
+*?
+suspect that the next half-century will not be nearly so dominated by advances in computing as we are currently expecting, and ? have a suspicion that around 2070 there will be essays about the slowdown in changes in information technology, and the acceleration of biotechnology.*
+
+**Biotechnology has a lot to gain from AI. 
+
+**Biology feels like computer science but with complexity at its foundation. 
+
+---
+Page: 262
+
+*What explains this speed and breadth of innovation fury? ?n a word, work. Chinese entrepreneurs are dedicated to the 9–9–6 week? 9 a.m. to 9 p.m., six days a week. That was what Americans were like too when they changed the world (?dison demanded inhuman hours from his employees)?
+and ?ermans when they were among the most innovative people? and Britons in the nineteenth century? and Dutch and ?talians before that.
+Willingness to put in the hours, to experiment and play, to try new things, to take risks – these characteristics for some reason are found in young, newly prosperous societies and no longer in old, tired ones.*
+
+**Is there any value in the leisure that the stagnating economies are enjoying? It would be interesting to know why the hard work has stopped. Is it because of perceived inequality? Is it the shrinking amount of entrepreneurs? 
+
+---
+Page: 264
+
+*?nnovation is the child of freedom and the parent of prosperity. ?t is on balance a very good thing. We abandon it at our peril. The peculiar fact that one species above all others has somehow got into the habit of rearranging the atoms and electrons of the world in such a way as to create new and thermodynamically improbable structures and ideas that are of practical use to the wellbeing of that species never ceases to amaze me. That many members of the species show little curiosity about how this rearranging comes about, and why it matters, puzzles me. That many people think more about how to constrain rather than encourage it worries me. That there is no practical limit to the ways in which the species could rearrange the atoms and electrons of the world into improbable structures in the centuries and millennia that lie ahead excites me. The future is thrilling and it is the improbability drive of innovation that will take us there.*
+
+**It feels as if the best thing one can make out of the situation is keep being an entrepreneur, no matter how hard they make it. Be an entrepreneur and make friends with people who are interested in affecting laws and regulations. Fighting against incumbents' influences, by creating new and more fair business models. Open-source was an innovation in creating more innovation. 
+
+---
+Page: 259
+
+*By contrast, the forces of complacency and stagnation sometimes seem to be winning in ?urope, America and ?apan. ?redrik ?rixon and Björn Weigel, in their book The Inno?ation Ill?sion: How So Little is Created by So Many Working So Hard, argue that the existential challenge of today’s capitalism is to break the habit of both companies’ and governments’ reluctance to encourage innovation, despite their words.
+Schumpeter’s ‘perennial gale of creative destruction’ has been replaced by the gentle breezes of rent-seeking. Corporate managerialism is gradually squeezing the life out of enterprise as big companies in cosy cahoots with big government increasingly dominate the scene. Their bosses shy away from uncertainty, and instead make their companies increasingly bureaucratic. ?conomists such as Tyler Cowan and Robert ?ordon have likewise argued that we are no longer inventing things that really change the world, like toilets and cars, but increasingly playing with trivia like social media.*
+
+**That's something that was lucrative with crypto. It was a path towards a world where the market is no longer fixed by the powers that be. 
