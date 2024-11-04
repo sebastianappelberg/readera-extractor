@@ -44,7 +44,9 @@ interface ReadEraBackupToMarkdownArgs {
 
 export function readEraBackupToMarkdown(args: ReadEraBackupToMarkdownArgs) {
   const notes = extractor(args.file);
-  createFolder(args.output);
+  if (args.output !== "") {
+    createFolder(args.output);
+  }
   notes.forEach(note => {
     createFile(args.output, note.title + ".md", noteToMarkdown(note));
   });
