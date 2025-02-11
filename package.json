@@ -9,6 +9,7 @@
     "type": "git",
     "url": "https://github.com/sebastianappelberg/readera-extractor.git"
   },
+  "keywords": ["readera"],
   "license": "MIT",
   "devDependencies": {
     "@types/adm-zip": "^0.5.5",
