@@ -1,6 +1,6 @@
 # ReadEra Extractor
 
-A CLI tool for converting notes from your ReadEra backup file to markdown files.
+A CLI tool for converting notes stored in ReadEra backup files to markdown files.
 
 ## Installation
 
