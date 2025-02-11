@@ -5,6 +5,10 @@
   "bin": "dist/index.js",
   "author": "sebastian <sebastian.appelberg@gmail.com>",
   "description": "A CLI tool for converting notes from your ReadEra backup file to markdown files.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebastianappelberg/readera-extractor.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/adm-zip": "^0.5.5",
