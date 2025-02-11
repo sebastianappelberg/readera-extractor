@@ -8,7 +8,7 @@ const program = new Command();
 program
   .name("readera-extractor")
   .description("A CLI tool for converting your ReadEra backup file to markdown files.")
-  .version("1.0.0");
+  .version("1.0.3");
 
 program
   .command("run", {isDefault: true})
